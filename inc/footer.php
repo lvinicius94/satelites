@@ -10,7 +10,7 @@
 				<ul>
 					<li><a rel="nofollow" href="<?=$url?>" title="Página inicial">Início</a></li>
 					<li><a rel="nofollow" href="<?=$url?>sobre-nos" title="Sobre Nós">Sobre Nós</a></li>
-					<li><a rel="nofollow" href="<?=$url?>produtos" title="Produtos">Produtos</a></li>
+					<li><a rel="nofollow" href="<?=$url?>produto" title="Produtos">Produtos</a></li>
 
 					<li><a href="<?=$url?>mapa-site" title="Mapa do site <?=$nomeSite?>">Mapa do site</a></li>
 				</ul>

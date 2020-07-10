@@ -7,7 +7,7 @@
           class="fas fa-home"></i></span>Início</a></li>
   <li><a class="nav-link nav-link-ltr" href="<?=$url?>sobre-nos"><span class="fas-icons"><i
           class="fas fa-user"></i></span>Sobre Nós</a></li>
-  <li class="dropdown"><a href="<?=$url?>produtos" title="Produtos"><span class="fas-icons"><i
+  <li class="dropdown"><a href="<?=$url?>produto" title="Produtos"><span class="fas-icons"><i
           class="fas fa-box-open"></i></span>Produtos</a>
     <ul class="sub-menu">
       <? include('inc/sub-menu.php');?>
