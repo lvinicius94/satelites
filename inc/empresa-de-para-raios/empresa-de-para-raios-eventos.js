@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {  jQuery('.botao-cotar').on('click', function() { ga('send', 'event', 'Empresa de para-raios','Cotar Agora', 'Clicou no botão'); }); });

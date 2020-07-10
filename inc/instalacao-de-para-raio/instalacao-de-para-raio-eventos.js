@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {  jQuery('.botao-cotar').on('click', function() { ga('send', 'event', 'Instalação de para-raio','Cotar Agora', 'Clicou no botão'); }); });

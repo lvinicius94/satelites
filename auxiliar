@@ -1,0 +1,40 @@
+
+
+$caminhocatraca_e_controle_de_acesso = '<div id="breadcrumb" itemscope itemtype="http://schema.org/Breadcrumb" >';
+$caminhocatraca_e_controle_de_acesso.= '<a rel="home" href="'.$url.'" title="Home" itemprop="url"><span itemprop="title">';
+$caminhocatraca_e_controle_de_acesso.= '<i class="fa fa-home" aria-hidden="true"></i> Home</span></a> »';
+$caminhocatraca_e_controle_de_acesso.= '<div itemprop="child" itemscope itemtype="http://schema.org/Breadcrumb">';
+$caminhocatraca_e_controle_de_acesso.= '<a href="'.$url.'produtos" title="Produtos" class="category" itemprop="url">';
+$caminhocatraca_e_controle_de_acesso.= '<span itemprop="title"> Produtos </span></a> »';
+$caminhocatraca_e_controle_de_acesso.= '<div itemprop="child" itemscope itemtype="http://schema.org/Breadcrumb">';
+$caminhocatraca_e_controle_de_acesso.= '<a href="'.$url.'catraca-e-controle-de-acesso-categoria" title="Categoria - Catraca e Controle de Acesso" class="category" itemprop="url">';
+$caminhocatraca_e_controle_de_acesso.= '<span itemprop="title"> Categoria - Catraca e Controle de Acesso </span></a> »';
+$caminhocatraca_e_controle_de_acesso.= '<div itemprop="child" itemscope itemtype="http://schema.org/Breadcrumb">';
+$caminhocatraca_e_controle_de_acesso.= '<strong><span class="page" itemprop="title" > '.$h1.'</span></strong></div></div></div></div>';
+
+$caminhorelogio_e_registro_de_ponto  = '<div id="breadcrumb" itemscope itemtype="http://schema.org/Breadcrumb" >';
+$caminhorelogio_e_registro_de_ponto .= '<a rel="home" href="'.$url.'" title="Home" itemprop="url"><span itemprop="title">';
+$caminhorelogio_e_registro_de_ponto .= '<i class="fa fa-home" aria-hidden="true"></i> Home</span></a> »';
+$caminhorelogio_e_registro_de_ponto .= '<div itemprop="child" itemscope itemtype="http://schema.org/Breadcrumb">';
+$caminhorelogio_e_registro_de_ponto .= '<a href="'.$url.'produtos" title="Produtos" class="category" itemprop="url">';
+$caminhorelogio_e_registro_de_ponto .= '<span itemprop="title"> Produtos </span></a> »';
+$caminhorelogio_e_registro_de_ponto .= '<div itemprop="child" itemscope itemtype="http://schema.org/Breadcrumb">';
+$caminhorelogio_e_registro_de_ponto .= '<a href="'.$url.'relogio-e-registro-de-ponto-categoria" title="Categoria - Relógio e Registro de Ponto " class="category" itemprop="url">';
+$caminhorelogio_e_registro_de_ponto .= '<span itemprop="title"> Categoria - Relógio e Registro de Ponto </span></a> »';
+$caminhorelogio_e_registro_de_ponto .= '<div itemprop="child" itemscope itemtype="http://schema.org/Breadcrumb">';
+$caminhorelogio_e_registro_de_ponto .= '<strong><span class="page" itemprop="title" > '.$h1.'</span></strong></div></div></div></div>';
+
+
+
+
+$caminho$categoriaBCUnder  = '<div id=\"breadcrumb\" itemscope itemtype=\"http://schema.org/Breadcrumb\" >';
+$caminho$categoriaBCUnder .= '<a rel=\"home\" href=\"$url\" title=\"Home\" itemprop=\"url\"><span itemprop=\"title\">';
+$caminho$categoriaBCUnder .= '<i class=\"fa fa-home\" aria-hidden=\"true\"></i> Home</span></a> »';
+$caminho$categoriaBCUnder .= '<div itemprop=\"child\" itemscope itemtype=\"http://schema.org/Breadcrumb\">';
+$caminho$categoriaBCUnder .= '<a href=\"".$url."produtos\" title=\"Produtos\" class=\"category\" itemprop=\"url\">';
+$caminho$categoriaBCUnder .= '<span itemprop=\"title\"> Produtos </span></a> »';
+$caminho$categoriaBCUnder .= '<div itemprop=\"child\" itemscope itemtype=\"http://schema.org/Breadcrumb\">';
+$caminho$categoriaBCUnder .= '<a href=\"".$url."catraca-e-controle-de-acesso-categoria\" title=\"Categoria - Catraca e Controle de Acesso\" class=\"category\" itemprop=\"url\">';
+$caminho$categoriaBCUnder .= '<span itemprop=\"title\"> Categoria - Catraca e Controle de Acesso </span></a> »';
+$caminho$categoriaBCUnder .= '<div itemprop=\"child\" itemscope itemtype=\"http://schema.org/Breadcrumb\">';
+$caminho$categoriaBCUnder .= '<strong><span class=\"page\" itemprop=\"title\" > ".$h1."</span></strong></div></div></div></div>';";

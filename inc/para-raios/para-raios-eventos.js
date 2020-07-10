@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {  jQuery('.botao-cotar').on('click', function() { ga('send', 'event', 'Para-Raios','Cotar Agora', 'Clicou no botão'); }); });

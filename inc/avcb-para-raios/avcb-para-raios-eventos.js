@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {  jQuery('.botao-cotar').on('click', function() { ga('send', 'event', 'AVCB PARA-RAIOS','Cotar Agora', 'Clicou no botão'); }); });
