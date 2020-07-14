@@ -3557,9 +3557,9 @@ span.obrigatorio {
 }
 .box-produto {
   margin: 5px;
-  border: 5px solid var(--corsecundaria);
+  border: 1px solid #3333332e;
   background-color: #fff;
-  border-radius: 20px;
+  
 }
 
 .box-produto .grid .col-3 a img {

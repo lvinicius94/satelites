@@ -29,7 +29,7 @@
         RewriteRule ^(.*)$ $1.php
 
         #redirects 
-        #redirect 301 /produto https://www.sppararaios.com.br/produtos
+        #redirect 301 /produtos https://www.sppararaios.com.br/produto
         
     </IfModule>
 
