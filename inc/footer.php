@@ -51,7 +51,7 @@
 };
 </script>
 
-<script src="//code.jivosite.com/widget/yhoDeRybmr" async></script> 
+
 <app-cotacao-solucs
 appConfig='{"btnOrcamento": ".botao-cotar", "titulo": "h2", "industria": "solucoes-industriais", "container":"nova-api"}'
 ></app-cotacao-solucs>
