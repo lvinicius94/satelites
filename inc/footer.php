@@ -69,6 +69,9 @@ appConfig='{"btnOrcamento": ".botao-cotar", "titulo": "h2", "industria": "soluco
 	  $('#sharkOrcamento').html(title.trim());
 	});
 </script> -->
+
+<script src="//code.jivosite.com/widget/5YgwKxRlI0" async></script>
+
 <!-- Google Analytics -->
 <? include('inc/LAB.php'); ?>
 <script>
