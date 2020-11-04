@@ -1,1 +1,4 @@
-<aside> <h2><a href="<?=$url?>adequacao-do-spda-categoria" title="Produtos relacionados <?=$nomeSite?>"> Adequação do SPDA<br>Produtos relacionados</a></h2> <nav>  <ul> <? include('inc/adequacao-do-spda/adequacao-do-spda-sub-menu.php');?> </ul> </nav> <br> </aside><aside> <h2><a href="<?=$url?>" title="Outras Categorias">Outras Categorias </a></h2> <nav> <ul> <? include('inc/adequacao-do-spda/adequacao-do-spda-sub-menu-categoria.php');?> </ul> </nav> <br> </aside>
+<aside><h2 style="display:none;"><?=$h1?></h2>
+    <button id="btnOrcamento" class='botao-cotar btnCotar'><a rel="nofollow" title="<?=$h1?>"></a>FAÇA UM
+        ORÇAMENTO</button>
+<h2><a href="<?=$url?>adequacao-do-spda-categoria" title="Produtos relacionados <?=$nomeSite?>"> Adequação do SPDA<br>Produtos relacionados</a></h2> <nav>  <ul> <? include('inc/adequacao-do-spda/adequacao-do-spda-sub-menu.php');?> </ul> </nav> <br> </aside><aside> <h2><a href="<?=$url?>" title="Outras Categorias">Outras Categorias </a></h2> <nav> <ul> <? include('inc/adequacao-do-spda/adequacao-do-spda-sub-menu-categoria.php');?> </ul> </nav> <br> </aside>
