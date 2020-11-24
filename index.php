@@ -16,25 +16,25 @@ include_once('inc/categoriasGeral.php');
 	<ul class="cd-hero-slider autoplay">
 		<li class="selected">
 			<div class="cd-full-width">
-				<h2>Empresa de Para-Raios</h2>
-				<p>Com o para-raio trabalhando como um captador de energia da descarga elétrica natural, seu uso tornou-se extremamente necessário e amplo em todas as edificações, estabelecendo segurança ao transeunte e desenvolvendo estabilidade para a construção.</p>
-				<a href="<?=$url?>para-raio-predial" class="cd-btn">Saiba mais</a>
+				<h2>Laudo SPDA</h2>
+				<p>O laudo SPDA é de extrema importância para residências e indústrias que utilizam equipamentos eletrônicos, pois com ele é possível ter uma visão mais apurada das condições em que o sistema de proteção contra descargas atmosférica se encontra.</p>
+				<a href="<?=$url?>laudo-spda" class="cd-btn">Saiba mais</a>
 			</div>
 		</li>
 
 		<li>
 			<div class="cd-full-width">
-				<h2> Instalação de Para Raio Residencial</h2>
-				<p>Diante da elevada incidência de raios no Brasil, é necessário que todo tipo de edificação receba um sistema de proteção contra descarga elétrica atmosférica, como é o caso da adequação de para-raios.</p>
-				<a href="<?=$url?>instalacao-para-raio-residencial" class="cd-btn">Saiba mais</a>
-			</div>
-		</li>
-
-		<li>
-			<div class="cd-full-width">
-				<h2> Manutenção de Para raios</h2>
-				<p>Empresa de instalação de para raio irá realizar a montagem, instalação e manutenção de todo o sistema de proteção contra descargas elétricas provindas da atmosfera.</p>
+				<h2>Para-Raio Preço</h2>
+				<p>Chamados também de SPDA (Sistema de proteção contra descargas elétricas) são fundamentais e devem ser instalados em todas as fábricas, empresas e indústrias. </p>
 				<a href="<?=$url?>para-raio-preco" class="cd-btn">Saiba mais</a>
+			</div>
+		</li>
+
+		<li>
+			<div class="cd-full-width">
+				<h2>Instalação de Para Raios</h2>
+				<p>A instalação de para-raios tem como principal função a de reduzir o impacto dos efeitos de descargas atmosféricas, evitando, desse modo, possíveis causas de acidentes gerados pelos raios.</p>
+				<a href="<?=$url?>instalacao-de-para-raios" class="cd-btn">Saiba mais</a>
 			</div>
 		</li>
 

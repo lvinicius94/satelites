@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<? include('inc/geral.php'); ?>
-		<link rel="stylesheet" href="css/style.css" type="text/css">
-		<link rel="stylesheet" href="css/normalize.css" type="text/css">
+		<link rel="preload" href="css/style.css" as="style"> <link rel="stylesheet" href="css/style.css">
+		<link rel="preconnect" href="css/normalize.css" type="text/css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 		<script src="<?=$url?>js/jquery-1.9.0.min.js"></script>
 	<!-- MENU  MOBILE -->

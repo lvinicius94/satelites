@@ -115,7 +115,6 @@ figure:hover {
 figure {
   overflow: hidden;
   position: relative;
-  margin-left: 100px;
   display: flex !important;
   justify-content: flex-end;
   width: 400px;
@@ -573,7 +572,7 @@ header #menu2 a {
   width: 65%;
   color: var(--cortexto);
   text-decoration: none;
-  padding: 10px 30px;
+  padding: 20px 30px;
   height: 46px;
   text-align: center;
   transition: all 0.3s linear;
@@ -597,7 +596,7 @@ header #menu2 table {
 header #menu2 .dropdown .sub-menu {
   display: none;
   position: absolute;
-  top: 66px;
+  top: 85px;
   left: 2px;
   height: 400px;
   margin: 0;
@@ -3697,7 +3696,6 @@ figure {
   height: 100%;
   overflow: hidden;
   position: relative;
-  margin-left: 100px;
   display: flex;
   justify-content: flex-end;
 }
